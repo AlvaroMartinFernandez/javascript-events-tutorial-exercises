@@ -1,1 +1,3 @@
-// your function goes here
+window.myFunction = function(){
+    alert('PAgina completada');
+}

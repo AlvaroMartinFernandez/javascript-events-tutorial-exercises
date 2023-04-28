@@ -1,1 +1,3 @@
-//Declare your function here
+window.myClickFunction = function () {
+	alert("Hello World!");
+};
